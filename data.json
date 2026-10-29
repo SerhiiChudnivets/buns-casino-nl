@@ -1,11 +1,11 @@
 {
   "name": "buns-casino.nl",
   "site_name": "buns-casino.nl",
-  "html_head": "<meta name=\"google-site-verification\" content=\"ML8HC7mIp311vn-Rns8qFam10ZOAoRE22z47D__sx_o\" />\n<link rel=\"canonical\" href=\"https://buns-casino.nl/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Buns Casino | 500% tot € 12.000 + 777 Gratis Spins\">\n<meta property=\"og:description\" content=\"Ontdek Buns Casino met 7.000+ spellen, esports en 25 VIP-niveaus. Claim 500% tot € 12.000 + 777 gratis spins bij BunsBet!\">\n<meta property=\"og:url\" content=\"https://buns-casino.nl/\">\n<meta property=\"og:site_name\" content= \"Buns Casino\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"w5rhAgnBzyFNxfgqsAIkMH065kPCvOocnNOn1eUxxtk\" />\n<link rel=\"canonical\" href=\"https://buns-casino.nl/\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Buns Casino | 500% tot € 12.000 + 777 Gratis Spins\">\n<meta property=\"og:description\" content=\"Ontdek Buns Casino met 7.000+ spellen, esports en 25 VIP-niveaus. Claim 500% tot € 12.000 + 777 gratis spins bij BunsBet!\">\n<meta property=\"og:url\" content=\"https://buns-casino.nl/\">\n<meta property=\"og:site_name\" content= \"Buns Casino\">\n",
   "url": "buns-casino.nl",
   "template": "tupchiy",
   "language_code": "nl-NL",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -275,8 +275,8 @@
       "question": "Hoe kan ik een speelpauze nemen?"
     }
   ],
-  "_generated_at": "2026-10-29T12:21:03.613Z",
+  "_generated_at": "2026-10-29T12:27:13.881Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-29T12:21:04.309Z",
-  "_deploy_trigger": "vabdng"
+  "_last_deploy": "2026-10-29T12:27:14.512Z",
+  "_deploy_trigger": "hfnok6"
 }
