@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://axbet-nl.nl/sitemap.xml
+Sitemap: https://buns-casino.nl/sitemap.xml
